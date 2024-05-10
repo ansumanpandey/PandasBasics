@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\LEADSOC\\source\\repos\\PandasBasics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\Source\\Repos\\PandasBasics\\2878. Get the Size of a DataFrame.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2878. Get the Size of a DataFrame.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\PandasBasics\\2877. Create a DataFrame from List.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2877. Create a DataFrame from List.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "2878. Get the Size of a DataFrame.py",
+              "DocumentMoniker": "C:\\Users\\LEADSOC\\Source\\Repos\\PandasBasics\\2878. Get the Size of a DataFrame.py",
+              "RelativeDocumentMoniker": "2878. Get the Size of a DataFrame.py",
+              "ToolTip": "C:\\Users\\LEADSOC\\Source\\Repos\\PandasBasics\\2878. Get the Size of a DataFrame.py",
+              "RelativeToolTip": "2878. Get the Size of a DataFrame.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-10T06:49:22.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "2877. Create a DataFrame from List.py",
               "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\PandasBasics\\2877. Create a DataFrame from List.py",
               "RelativeDocumentMoniker": "2877. Create a DataFrame from List.py",
